@@ -1,0 +1,25 @@
+.createEventForm
+{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+input
+{   
+    outline: none;
+    padding: 10px;
+    
+    border-radius: 30px;
+    box-shadow: 1px 1px 10px gray;
+}
+button
+{
+    padding: 10px;
+    background-color: rgb(214, 26, 58);
+    border-radius: 20px !important;
+    color: white;
+}
